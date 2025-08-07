@@ -6,8 +6,22 @@ O objetivo deste desafio foi criar uma página de blog com layout responsivo, ut
 
 ---
 
+## 🔗 Projeto Online
+
+Acesse o projeto final publicado no Netlify:  
+👉 [https://desafio02dncblog.netlify.app/](https://desafio02dncblog.netlify.app/)
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - Flexbox / Media Queries
+
+---
+
+## 📌 Autor
+
+Feito com dedicação por **Jonatas Pablo** 🧠  
+
